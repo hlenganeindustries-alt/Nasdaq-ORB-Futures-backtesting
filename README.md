@@ -48,7 +48,8 @@ ATR (Average True Range) measures how much NQ typically moves per day. ATR14 = a
 > _Paste your baseline stats output here from Cell 5_
 
 ```
-[PASTE BASELINE STATS HERE]
+<img width="337" height="752" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/942a41e5-d19f-4efa-8c1b-291c123dff9e" />
+
 ```
 
 ### After Optimisation
@@ -56,12 +57,14 @@ ATR (Average True Range) measures how much NQ typically moves per day. ATR14 = a
 > _Paste your best-params stats output here from Cell 7_
 
 ```
-[PASTE OPTIMISED STATS HERE]
+<img width="450" height="500" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/485ffdde-2c77-4e1c-a00e-b64d591c1e51" />
+
 ```
 
 ### Equity Curve
 
-> _Screenshot your equity curve from bt.plot() and drag it here_
+<img width="1435" height="760" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/e57c79d7-477f-4878-bc3f-2f37520a7b78" />
+
 
 ---
 
@@ -78,12 +81,7 @@ ATR (Average True Range) measures how much NQ typically moves per day. ATR14 = a
 
 ---
 
-## Optimisation Results
 
-> _Paste the top 20 combinations table from Cell 8 here_
-
-```
-[PASTE HEATMAP / TOP 20 TABLE HERE]
 ```
 
 ### Best Parameter Set Found
@@ -109,7 +107,8 @@ ATR (Average True Range) measures how much NQ typically moves per day. ATR14 = a
 [PASTE DOW TABLE HERE]
 ```
 
-> _Screenshot the DOW bar charts and drag them here_
+<img width="932" height="398" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/b09427a1-e4de-479f-99ba-db10ba2e0f77" />
+
 
 ---
 
