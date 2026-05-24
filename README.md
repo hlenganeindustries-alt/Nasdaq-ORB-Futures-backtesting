@@ -105,7 +105,7 @@ ATR (Average True Range) measures how much NQ typically moves per day. ATR14 = a
 
 ```
 [PASTE DOW TABLE HERE]
-```
+
 
 <img width="932" height="398" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/b09427a1-e4de-479f-99ba-db10ba2e0f77" />
 
