@@ -9,6 +9,18 @@ Simulated results only — not financial advice.
 
 >This strategy has not been tested with live funds. All backtests were conducted using Python and Yahoo Finance 1-hour price data. The system remains a work in progress as I continue researching optimal entry criteria. The logic shown is purely educational.
 ---
+## Repository Structure
+
+
+
+>backtest reasults csv/
+
+>/
+
+>Python code use for System/
+
+
+
 
 ## 🧠 Strategy Overview
 
