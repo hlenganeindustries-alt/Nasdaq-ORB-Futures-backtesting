@@ -7,7 +7,7 @@ A Python-based backtesting framework for an **Opening Range Breakout (ORB)** str
 > ⚠️ Disclaimer
 Simulated results only — not financial advice.
 
-This strategy has not been tested with live funds. All backtests were conducted using Python and Yahoo Finance 1-hour price data. The system remains a work in progress as I continue researching optimal entry criteria. The logic shown is purely educational.
+>This strategy has not been tested with live funds. All backtests were conducted using Python and Yahoo Finance 1-hour price data. The system remains a work in progress as I continue researching optimal entry criteria. The logic shown is purely educational.
 ---
 
 ## 🧠 Strategy Overview
