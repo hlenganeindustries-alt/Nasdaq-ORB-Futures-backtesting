@@ -13,11 +13,11 @@ Simulated results only — not financial advice.
 
 
 
->backtest reasults csv/
+>NQ_ORB_trades.csv (backtest reasults) /
 
->/
+>NQ_ORB_V4.ipynb(Explains the logic behind the Systems Python code)/
 
->Python code use for System/
+>READ.md(page  your looking at right now)/
 
 
 
